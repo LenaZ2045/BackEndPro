@@ -15,7 +15,7 @@ public class IteratorAppExample3 {
 
         System.out.println("Iterator in forward direction");
         ListIterator<String> iterator = list.listIterator();
-        ;
+
         while (iterator.hasNext()) {
             System.out.print(" " + iterator.next());
         }
