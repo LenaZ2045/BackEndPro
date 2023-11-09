@@ -1,5 +1,5 @@
 package com.telran.org.algorithm_hw_27_10_2023;
-
+// Homework  from Yelena Zimin
 public class QuickSort {
     //Java Program for Merge Sort
     // this function display the array
